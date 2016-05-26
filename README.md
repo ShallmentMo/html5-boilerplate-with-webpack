@@ -33,8 +33,8 @@
 
 5. You can use these command to start the server
 
-```
-npm run webpack-dev-server // use this to start webpack dev server
-npm run web-server
-```
+  ```
+  npm run webpack-dev-server // use this to start webpack dev server, also can use this as static server, but it seems not right.
+  npm run web-server // use this to start backend server
+  ```
 
